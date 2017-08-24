@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkdigSample", "MarkdigSam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpListenerSample", "HttpListenerSample\HttpListenerSample.csproj", "{C66F4F9D-CCF7-4333-AEBB-F9B5834315ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySQLSample", "MySQLSample\MySQLSample.csproj", "{D670C506-0F93-4513-83F6-55D54093B455}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C66F4F9D-CCF7-4333-AEBB-F9B5834315ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C66F4F9D-CCF7-4333-AEBB-F9B5834315ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C66F4F9D-CCF7-4333-AEBB-F9B5834315ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D670C506-0F93-4513-83F6-55D54093B455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D670C506-0F93-4513-83F6-55D54093B455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D670C506-0F93-4513-83F6-55D54093B455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D670C506-0F93-4513-83F6-55D54093B455}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
