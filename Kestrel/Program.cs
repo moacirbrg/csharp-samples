@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using System.Net;
 
-namespace SimpleKestrel
+namespace Kestrel
 {
   class Program
   {
