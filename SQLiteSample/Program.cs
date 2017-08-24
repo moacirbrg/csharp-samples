@@ -1,7 +1,7 @@
 ﻿using Microsoft.Data.Sqlite;
 using System;
 
-namespace SQLite
+namespace SQLiteSample
 {
   class Program
   {
