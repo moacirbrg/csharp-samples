@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpListenerSample", "HttpL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySQLSample", "MySQLSample\MySQLSample.csproj", "{D670C506-0F93-4513-83F6-55D54093B455}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewtonsoftSample", "NewtonsoftSample\NewtonsoftSample.csproj", "{A4C4DE0C-8BAE-46D0-8420-27AB4DA257F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{D670C506-0F93-4513-83F6-55D54093B455}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D670C506-0F93-4513-83F6-55D54093B455}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D670C506-0F93-4513-83F6-55D54093B455}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4C4DE0C-8BAE-46D0-8420-27AB4DA257F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4C4DE0C-8BAE-46D0-8420-27AB4DA257F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4C4DE0C-8BAE-46D0-8420-27AB4DA257F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4C4DE0C-8BAE-46D0-8420-27AB4DA257F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
