@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLiteSample", "SQLiteSampl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkdigSample", "MarkdigSample\MarkdigSample.csproj", "{F1018D7D-DB87-4970-B0DF-F47DB3D664D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpListenerSample", "HttpListenerSample\HttpListenerSample.csproj", "{C66F4F9D-CCF7-4333-AEBB-F9B5834315ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F1018D7D-DB87-4970-B0DF-F47DB3D664D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1018D7D-DB87-4970-B0DF-F47DB3D664D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1018D7D-DB87-4970-B0DF-F47DB3D664D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C66F4F9D-CCF7-4333-AEBB-F9B5834315ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C66F4F9D-CCF7-4333-AEBB-F9B5834315ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C66F4F9D-CCF7-4333-AEBB-F9B5834315ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66F4F9D-CCF7-4333-AEBB-F9B5834315ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
